@@ -295,4 +295,4 @@ in the Rails API docs.
 [api_inflector]: http://api.rubyonrails.org/classes/ActiveSupport/Inflector.html
 
 <a href='https://learn.co/lessons/activerecord-associations-review'
-data-visibility='hidden'>View this lesson on Learn.co</a>
+<data-visibility='hidden'>View this lesson on Learn.co</a>
